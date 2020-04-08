@@ -13,7 +13,6 @@ install:
 script:
 - npm test
 - CI=False npm run build
-- npm run deploy
 
 deploy:
   provider: pages
