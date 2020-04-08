@@ -76,5 +76,6 @@
         "bracketSpacing": true,
         "jsxBracketSameLine": false,
         "arrowParens": "always"
-    }
+    },
+    "homepage": "https://Eltom777.github.io/SOEN341-PicturePoint/"
 }
